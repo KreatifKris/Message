@@ -83,7 +83,7 @@
             <p>Happy Easter! May this day be filled with love, happiness, and new hope.</p>
             <p>复活节快乐！愿这一天充满爱、幸福和新的希望.</p>
             <p>Sugeng Paskah! Muga-muga dina iki kebak katresnan, rasa seneng lan pangarep-arep anyar.</p>
-            <p>부활절 복 많이 받으세요! 오늘이 사랑과 행복, 그리고 새로운 희망으로 가득 차길 바랍니다.
+           
 
         </div>
     </div>
